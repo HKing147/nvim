@@ -83,8 +83,8 @@
 - [ ] 安装 `pynvim` (使用 `pip`)
 - [ ] 安装 `nodejs`, 然后在终端输入 `npm install -g neovim`
 - [ ] 安装 nerd-fonts (尽管它是可选的，但是安装之后看上去十分地酷)
---  [Droid Sans Mono Nerd Font Complete.otf](https://github.com/ryanoasis/nerd-fonts/blob/master/patched-fonts/DroidSansMono/complete/Droid%20Sans%20Mono%20Nerd%20Font%20Complete.otf)
---  [Droid Sans Mono Nerd Font Complete Mono.otf](https://github.com/ryanoasis/nerd-fonts/blob/master/patched-fonts/DroidSansMono/complete/Droid%20Sans%20Mono%20Nerd%20Font%20Complete%20Mono.otf)
+- [ ] [Droid Sans Mono Nerd Font Complete.otf](https://github.com/ryanoasis/nerd-fonts/blob/master/patched-fonts/DroidSansMono/complete/Droid%20Sans%20Mono%20Nerd%20Font%20Complete.otf)
+- [ ] [Droid Sans Mono Nerd Font Complete Mono.otf](https://github.com/ryanoasis/nerd-fonts/blob/master/patched-fonts/DroidSansMono/complete/Droid%20Sans%20Mono%20Nerd%20Font%20Complete%20Mono.otf)
 
 ## 安装此配置后你可能想做的事
 ### 首先
